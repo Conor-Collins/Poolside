@@ -6,9 +6,10 @@ Poolside is a new and developing Magic: The Gathering format designed by Conor C
 *Note: I am not a judge, nor do I have that level of knowledge of the rules, so I am bound to have some priority/layering and other rules details to reconcile.*
 
 ## Format Overview
-Poolside is a multiplayer format that revolves around a shared card zone, known as the Pool. This zone acts as a collective resource for all players, dynamically evolving as the game progresses, making gameplay and deck construction unpredictable.</br></br>
+Poolside is a multiplayer format that revolves around a shared card zone, known as the Pool. This zone acts as a collective resource for all players, dynamically evolving as the game progresses, making gameplay and deck construction unpredictable.</br></br></br>
 
-# Rules and Deck Construction </br>
+# Rules and Deck Construction
+
 
 ## Deck Construction
 - **Deck Size**: Minimum of 80 cards.
