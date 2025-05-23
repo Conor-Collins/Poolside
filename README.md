@@ -33,7 +33,9 @@ Poolside is a multiplayer format that revolves around a shared card zone, known 
 - **Stack Interaction**: Standard rules for stack interaction are followed.
 
 ## Banned Cards
-An evolving ban list is maintained, starting with the Power Nine. The list will be updated based on playtesting feedback.
+An evolving ban list is maintained, The list will be updated based on playtesting feedback.
+The Power Nine
+Drannith Magistrate (completely shuts down the format's core mechanic)
 
 ## Custom Mechanics and Zones
 - **"Pool"**: Is a zone where three cards are maintained as long as a player is in the game.
